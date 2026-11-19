@@ -1,2 +1,2 @@
 # portfolio
-Posrtfolio of Shreyas Kumar
+Portfolio of Shreyas Kumar
